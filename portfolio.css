@@ -1,0 +1,88 @@
+body{
+    background-color: aliceblue;
+}
+.col{
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: lightslategray;
+}
+
+.ri{
+    width: 30%;
+}
+
+.le{
+    width: 70%;
+    text-align: center ;
+    font-size: 20px;
+}
+
+.row{
+    float: left;
+    
+}
+
+.rig{
+    width: 50%;
+}
+
+.rig h1{
+    text-decoration: underline;
+}
+
+.lef{
+    width: 50%;
+}
+
+.lef h1{
+    text-decoration: underline;
+}
+
+.vertical {
+    border-left: 6px solid black;
+    height: 805px;
+    position:absolute;
+    left: 45%;
+}
+
+
+.contact{
+    padding-left: 40px;
+}
+
+.skill{
+    padding-left: 40px;
+}
+
+
+.edu{
+    padding-left: 40px;
+}
+
+
+.int{
+    padding-left: 40px;
+}
+
+
+#list{
+    list-style-type: square;
+}
+
+.skill th{
+    border: 2px solid black;
+  border-radius: 20px;
+  
+}
+
+.skill table {
+    width: 400px;
+    height: 10px;
+    border: 2px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium';
+}
+
